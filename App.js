@@ -17,6 +17,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+<<<<<<< HEAD
 
 dsdsfdfsd
 
+=======
+>>>>>>> parent of b59eaa9... Third Commit
